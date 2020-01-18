@@ -1,0 +1,6 @@
+Hakan Saraç
+150140061
+Algo-1 Assignment-2
+
+to compile --->   g++ 150140061.cpp -o a
+to run     --->   ./a events_file_name
